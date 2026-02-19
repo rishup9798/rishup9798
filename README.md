@@ -1,4 +1,4 @@
-I'm Rishu Kumari
+<h3 align="center">I'm Rishu Kumari</h3>
 <h3 align="center">3rd Year B.Tech Student | Python & C++ | DSA | Cloud Computing & Infrastructure Enthusiast | Building scalable, production-ready solutions</h3>
 
 - 🔭 I’m currently working on **Data Structure and algorithm**
